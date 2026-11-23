@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack Developer",
+    
+    "details": [
+      "Developed modern web applications",
+      "Worked with React, Node.js, Bootstrap",
+      "Optimized performance and UX"
+    ],
+    "side": "left",
+    "image": "/algtel.png"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Engineer",
+   
+    "details": [
+      "Created responsive websites",
+      "Improved accessibility & SEO",
+      "Collaborated with cross-functional teams"
+    ],
+    "side": "right",
+  "image": "/bal.png"
+  },{
+    "id": 3,
+    "title": "Full Stack Developer",
+    
+    "details": [
+      "Developed modern web applications",
+      "Worked with React, Node.js, Bootstrap",
+      "Optimized performance and UX"
+    ],
+    "side": "left",
+  "image": "../../../public/algtel.png"
+  },
+  {
+    "id": 4,
+    "title": "Frontend Engineer",
+   
+    "details": [
+      "Created responsive websites",
+      "Improved accessibility & SEO",
+      "Collaborated with cross-functional teams"
+    ],
+    "side": "right",
+  "image": "../../../public/algtel.png"
+  },{
+    "id": 5,
+    "title": "Full Stack Developer",
+  
+    "details": [
+      "Developed modern web applications",
+      "Worked with React, Node.js, Bootstrap",
+      "Optimized performance and UX"
+    ],
+    "side": "left",
+   "image": "../../../public/algtel.png"
+  }
+]
